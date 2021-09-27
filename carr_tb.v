@@ -33,3 +33,5 @@ initial begin
     $monitor($time," Sum = %b, Carry = %b ",sum,carry);
      $display("test complete");
 end
+
+endmodule
